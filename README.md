@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prof-tallman and I teach computer science at Concordia University Irvine. I teach classes that have interesting subject matter: everything from Data Structures/Algorithms and Object-Oriented Programming to Information Security (crypto) and a basic Machine Learning class.
+- 👋 Hi, I’m @prof-tallman and I am a computer science professor at Concordia University Irvine. I teach classes that have interesting subject matter: everything from Data Structures/Algorithms and Object-Oriented Programming to Information Security (crypto) and a basic Machine Learning class.
 - 👀 I’m interested in creating projects that can be used as examples and assignments for these classes. I believe that students learn best with Project Based Learning--but it can be hard to find the right projects.
 
 <!---
